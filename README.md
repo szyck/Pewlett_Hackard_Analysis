@@ -7,3 +7,4 @@
   * 428 senior staff and 399 engineers are eligible for the mentorship program and constitute the majority of those eligible.
   * 72,458 of 300,024 current employees are retiring.
 ## Summary
+A high percentage of employees are retiring, mainly senior engineers and other senior staff. We should seek to promote engineers and hire new senior engineers. Further srudies are needed to determine the age of those retiring and the length of time they have been working here. 
